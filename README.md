@@ -43,6 +43,6 @@ The player must guess a randomly chosen word one letter at a time. The game prov
 
 📦 Future Improvements
 
-     * Add graphical (GUI) version using Tkinter or Pygame
+      Add graphical (GUI) version using Tkinter or Pygame
      * Store high scores
      * Load words from external files or APIs
