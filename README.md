@@ -1,23 +1,23 @@
 📖 Overview
 
-This project is a text-based Hangman game built entirely with core Python concepts such as random, while loops, if-else conditions, strings, and lists.
+      This project is a text-based Hangman game built entirely with core Python concepts such as random, while loops, if-else conditions, strings, and lists.
 The player must guess a randomly chosen word one letter at a time. The game provides hints for each word, limits the number of incorrect guesses, and offers a replay option after each round.
 
 🧠 Key Features
 
-🎲 Random word selection from a predefined list
+   🎲 Random word selection from a predefined list
 
-💡 Word-specific hints displayed during gameplay
+   💡 Word-specific hints displayed during gameplay
 
-❤️ Limited number of guesses (8 attempts)
+   ❤️ Limited number of guesses (8 attempts)
 
-✅ Real-time feedback on correct and incorrect guesses
+   ✅ Real-time feedback on correct and incorrect guesses
 
-🎉 “Congratulations” message upon winning
+   🎉 “Congratulations” message upon winning
 
-🔁 Replay feature (Play Again: y/n)
+   🔁 Replay feature (Play Again: y/n)
 
-🧱 Built using only fundamental Python concepts — no external libraries
+   🧱 Built using only fundamental Python concepts — no external libraries
 
 🧩 Concepts Used
 
