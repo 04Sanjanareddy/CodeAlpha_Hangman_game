@@ -1,6 +1,6 @@
 📖 Overview
 
-This project is a text-based Hangman game built entirely with core Python concepts such as random, while loops, if-else conditions, strings, and lists.
+ This project is a text-based Hangman game built entirely with core Python concepts such as random, while loops, if-else conditions, strings, and lists.
 The player must guess a randomly chosen word one letter at a time. The game provides hints for each word, limits the number of incorrect guesses, and offers a replay option after each round.
 
 🧠 Key Features
@@ -37,8 +37,8 @@ The player must guess a randomly chosen word one letter at a time. The game prov
     Good guess: p _ _ _ _ _
 
 ...
-    🎉 Congratulations, you won!
-    The correct word was: python
+    🎉 Congratulations, you won!                                                                                                     
+    The correct word was: python                                                                                                           
     Hint: programming language
 
 📦 Future Improvements
