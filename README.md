@@ -21,10 +21,10 @@ The player must guess a randomly chosen word one letter at a time. The game prov
 
 🧩 Concepts Used
 
-    * random module for random word selection
-    * while loop for continuous gameplay
-    * if-else statements for decision making
-    * strings and lists for storing and checking guessed letters
+     random module for random word selection.
+     while loop for continuous gameplay.
+     if-else statements for decision making.
+     strings and lists for storing and checking guessed letters.
 
 🕹️ Gameplay Example
     Welcome to Hangman!
@@ -43,6 +43,6 @@ The player must guess a randomly chosen word one letter at a time. The game prov
 
 📦 Future Improvements
 
-      Add graphical (GUI) version using Tkinter or Pygame
-     * Store high scores
-     * Load words from external files or APIs
+      Add graphical (GUI) version using Tkinter or Pygame.
+      Store high scores.
+      Load words from external files or APIs.
